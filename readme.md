@@ -8,8 +8,9 @@ Working with a Coffee Consumer Survey Data Set from The Great American Coffee Ta
 Using data from a 2023 survey of “Great American Coffee Taste Test” viewers, I will be exploring consumer trends of American coffee enthusiasts, primarily through spending demographics and coffee preferences. Project I focuses on data collection and aggregation. 
 
 ## Project 2
-Using CBA - Clustering for Business Analytics by Christian Buchta, I am looking to identify distinct “customer-classes” by analyzing individual, self reported data on their coffee drinking habits (location, preferred roast, preferred brand, home coffee spending) and demographic characteristics such as their age, gender, race, educational background, and number of children. Identifying prominent characteristics that lead to vast differences in consumer spending can be beneficial to any corporation looking to target the right kind of consumers through advertising. Project II performs the necessary EDA to establish natural groupings and patterns in the data. 
+Project II performs the necessary EDA to establish natural groupings and patterns in the data for an eventual clustering analysis for categorical data.
 
 ## Project 3
+Using Grower/PAM clustering for categorical (one-hot encoded) data, I am looking to identify distinct “customer-classes” by analyzing individual, self reported data on their coffee drinking habits (location, preferred roast, preferred drinking location, reason for drinking coffee) and demographic characteristics such as their age, gender, educational background, and number of children. Identifying prominent characteristics that lead to vast differences in consumer spending can be beneficial to any corporation looking to target the right kind of consumers through advertising.
 
 ## Project 4
